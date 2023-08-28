@@ -81,7 +81,7 @@ This dashboard displays the following for a Supervised machine learning model:
 
 ![](user_guide/_static/sup_dashbrd/dashboard10.png)
 
-*Note: The numbered labels in the screenshots correspond to each widget in the custom python `Dashboard` class. For more details on the jupyter widgets, callback functions, process flow, please refer to the [user guide](http://htmlpreview.github.io/?https://github.com/py3lee/projects/blob/main/supervised_ml_dashboard/user_guide/Supervised%20Model%20Dashboard.html) or (`user_guide`>`Supervised_Model_Dashboard.md`).* 
+*Note: The numbered labels in the screenshots correspond to each widget in the custom python `Dashboard` class. For more details on the jupyter widgets, callback functions, process flow, please refer to the [user guide](http://htmlpreview.github.io/?https://github.com/py3lee/supervised_ml_dashboard/blob/main/user_guide/Supervised%20Model%20Dashboard.html) or (`user_guide`>`Supervised_Model_Dashboard.md`).* 
 
 
 
@@ -91,7 +91,7 @@ This dashboard displays the following for a Supervised machine learning model:
 
 The Dashboard was written in the python programming language, and runs from a Jupyter notebook. The display is rendered using voila.  
 
-After setting up the [virtual environment](https://github.com/py3lee/projects/blob/main/supervised_ml_dashboard/user_guide/Supervised_Model_Dashboard.md#environmentyml-file), open the [Supervised Model Dashboard notebook](notebook/Supervised_Model_Dashboard.ipynb) (`notebook` > `Supervised_Model_Dashboard.ipynb`)
+After setting up the [virtual environment](environment.yml), open the [Supervised Model Dashboard notebook](notebook/Supervised_Model_Dashboard.ipynb) (`notebook` > `Supervised_Model_Dashboard.ipynb`)
 
 Run all cells to display the dashboard. 
 
@@ -101,7 +101,7 @@ Run all cells to display the dashboard.
 
 
 
-Check out the detailed [user guide](http://htmlpreview.github.io/?https://github.com/py3lee/projects/blob/main/supervised_ml_dashboard/user_guide/Supervised%20Model%20Dashboard.html) or (`user_guide`>`Supervised_Model_Dashboard.md`) for details on the configuration settings, setup files, step-by-step walkthrough of all the displayed content, as well as the process flows for the classes. 
+Check out the detailed [user guide](http://htmlpreview.github.io/?https://github.com/py3lee/supervised_ml_dashboard/blob/main/user_guide/Supervised%20Model%20Dashboard.html) or (`user_guide`>`Supervised_Model_Dashboard.md`) for details on the configuration settings, setup files, step-by-step walkthrough of all the displayed content, as well as the process flows for the classes. 
 
 
 
